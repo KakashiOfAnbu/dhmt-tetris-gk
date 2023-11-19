@@ -1,0 +1,73 @@
+﻿  game.cpp
+E:\code\OpenGl\tetris-gk\src\game.cpp(53,48): warning C4244: 'argument': conversion from 'const GLfloat' to 'int', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(53,40): warning C4244: 'argument': conversion from 'const GLfloat' to 'int', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(186,23): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(187,22): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(247,13): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(250,13): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(252,13): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(255,13): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(257,13): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(275,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\code\OpenGl\tetris-gk\src\game.cpp(289,94): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(289,80): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(291,14): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(295,30): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(295,14): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(313,24): warning C4244: 'initializing': conversion from 'GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(315,18): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(314,90): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(317,55): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(317,35): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(321,29): warning C4244: '=': conversion from 'GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(322,86): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(322,74): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(324,22): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(324,10): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(329,38): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(329,18): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(334,14): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(333,86): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(338,86): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(338,74): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(342,94): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(342,80): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(352,93): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(352,73): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(354,87): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(354,69): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(368,81): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(368,65): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(374,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\code\OpenGl\tetris-gk\src\game.cpp(388,81): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(388,65): warning C4244: 'argument': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\game.cpp(391,14): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  render.cpp
+E:\code\OpenGl\tetris-gk\src\render.cpp(294,22): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\render.cpp(296,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\render.cpp(303,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\code\OpenGl\tetris-gk\src\render.cpp(316,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\render.cpp(319,42): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\render.cpp(366,23): warning C4244: 'initializing': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\render.cpp(367,24): warning C4244: 'initializing': conversion from 'const GLuint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\render.cpp(387,23): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\code\OpenGl\tetris-gk\src\render.cpp(396,30): warning C4244: '+=': conversion from 'const GLint64' to 'GLint', possible loss of data
+  tetris.cpp
+  util.cpp
+  Generating Code...
+E:\code\OpenGl\tetris-gk\src\tetris.cpp(172): warning C4715: 'Piece::kicks': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4217: symbol '___glewAttachShader' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewCompileShader' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewCreateProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewCreateShader' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewDeleteShader' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewGetProgramInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewGetProgramiv' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewGetShaderInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewGetShaderiv' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewLinkProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+LINK : warning LNK4217: symbol '___glewShaderSource' defined in 'glew32s.lib(glew.obj)' is imported by 'util.obj' in function '"public: __thiscall Shader::Shader(char const *,char const *)" (??0Shader@@QAE@PBD0@Z)'
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'E:\code\OpenGl\tetris-gk\vs\Debug\vc100.pdb'; linking object as if no debug info
+  vs2017_project.vcxproj -> E:\code\OpenGl\tetris-gk\vs\Debug\tetris.exe

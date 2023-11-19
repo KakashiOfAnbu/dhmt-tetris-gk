@@ -1,0 +1,2 @@
+E:\code\OpenGl\tetris-game\vs2017_project\Debug\tetris.exe
+E:\code\OpenGl\tetris-gk\vs\Debug\tetris.exe
